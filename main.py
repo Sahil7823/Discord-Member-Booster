@@ -1,7 +1,7 @@
 import os, random, string, time, json, sys, ctypes
 from data.solver import Solver
 
-try:
+try:10
     import requests
     import httpx
     import bs4
